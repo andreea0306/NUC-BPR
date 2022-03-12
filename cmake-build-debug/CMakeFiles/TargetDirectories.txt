@@ -1,0 +1,3 @@
+/home/andreea/CLionProjects/NUCv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andreea/CLionProjects/NUCv2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andreea/CLionProjects/NUCv2/cmake-build-debug/CMakeFiles/NUCv2.dir
